@@ -1,12 +1,14 @@
-# kanji_number_parser
+# kanji-number-parser
 
 Convert Chinese numeral `String` to `BigUInt`.
 
 ## Getting Started
 
+Simply add to your Cargo.toml:
+
 ```toml
 [dependencies]
-kanji_number_parser = "0.1.0"
+kanji-number-parser = "0.1.0"
 ```
 
 ## Example
