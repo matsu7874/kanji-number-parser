@@ -5,7 +5,7 @@ description = "Convert Chinese numeral `String` to `BigUInt`."
 authors = ["matsu7874 <mtsmtkmt@gmail.com>"]
 edition = "2018"
 license = "Apache-2.0 OR MIT"
-repository = "https://github.com/matsu7874/kanji_number_parser"
+repository = "https://github.com/matsu7874/kanji-number-parser"
 readme = "README.md"
 keywords = ["japanese", "parser"]
 
