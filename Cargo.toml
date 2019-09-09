@@ -11,5 +11,5 @@ keywords = ["japanese", "parser"]
 
 [dependencies]
 num-bigint = "0.2.3"
-num-traits = "*"
+num-traits = "0.2.8"
 failure = "0.1.5"
